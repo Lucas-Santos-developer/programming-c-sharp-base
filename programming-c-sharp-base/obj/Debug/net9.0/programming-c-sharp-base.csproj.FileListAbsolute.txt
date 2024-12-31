@@ -12,3 +12,4 @@ c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\refi
 c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\programming-c-sharp-base.pdb
 c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\programming-c-sharp-base.genruntimeconfig.cache
 c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\ref\programming-c-sharp-base.dll
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\programming-c-sharp-base.sourcelink.json
