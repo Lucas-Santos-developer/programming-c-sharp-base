@@ -1,0 +1,14 @@
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\bin\Debug\net9.0\programming-c-sharp-base.exe
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\bin\Debug\net9.0\programming-c-sharp-base.deps.json
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\bin\Debug\net9.0\programming-c-sharp-base.runtimeconfig.json
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\bin\Debug\net9.0\programming-c-sharp-base.dll
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\bin\Debug\net9.0\programming-c-sharp-base.pdb
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\programming-c-sharp-base.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\programming-c-sharp-base.AssemblyInfoInputs.cache
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\programming-c-sharp-base.AssemblyInfo.cs
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\programming-c-sharp-base.csproj.CoreCompileInputs.cache
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\programming-c-sharp-base.dll
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\refint\programming-c-sharp-base.dll
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\programming-c-sharp-base.pdb
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\programming-c-sharp-base.genruntimeconfig.cache
+c:\Users\lucas\Desktop\dev\csharp\programming-c-sharp-base\obj\Debug\net9.0\ref\programming-c-sharp-base.dll
